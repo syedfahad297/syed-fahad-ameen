@@ -6,12 +6,12 @@ body{
 .nav-link:hover{
     color: blue;
 }
-#home{
-    background-color: rgb(189, 247, 229);
-}
 .center{
   margin-left: 3%;
     margin-top: 30%;
+}
+.ba{
+  color: blue;
 }
 .center span{
     color: blue;
