@@ -33,5 +33,6 @@ body{
 }
 .i-h:hover{
   transform:scale(1.1);
+  transition: 1s;
   z-index:1 ;
 }
